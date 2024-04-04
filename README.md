@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berfin</h1>
 - 🔭 I am University Student at Adana Alparslan Türkeş Science and Technology University.
 
-- 🌱 I’m currently learning Web Development and Java Spring.
+
 
 - 👨‍💻My department is Electrical Electronic Engineering.
 
